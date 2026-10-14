@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @AidinAsoodeh
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning program computer
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I'm **Aidin Asoodeh** (@AidinAsoodeh)
+
+💻 I'm a Computer Engineering student passionate about programming, Artificial Intelligence, and Machine Learning.
+
+🌱 I'm currently learning Python, JavaScript, Machine Learning, and Deep Learning to strengthen my programming and AI skills.
+
+🤝 I'm looking to collaborate on open-source projects, AI applications, and machine learning projects where I can learn, contribute, and grow as a developer.
+
+📫 How to reach me: **aidin.asoodeh@gmail.com**
+
+⚡ Fun fact: I'm always excited to learn new technologies and turn ideas into real-world projects!
+
+---
 
 <!---
-AidinAso/AidinAso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+This is a special repository because its README.md appears on your GitHub profile.
 --->
